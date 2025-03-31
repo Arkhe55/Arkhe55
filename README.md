@@ -1,5 +1,5 @@
 ### Olá pessoal me chamo Gabriel
-### Atualmente estudante de programação e linguagem Python entusiasta de outras linguagens como C++ e outras tecnologias em seu todo👋
+### Atualmente estudante de programação em linguagem Python entusiasta de outras linguagens como C++ e outras tecnologias em seu todo👋
 <!--
 **Arkhe55/Arkhe55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
